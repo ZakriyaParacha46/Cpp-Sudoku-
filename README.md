@@ -14,3 +14,4 @@
 3-User friendly
 4-Time and #of steps
 5-Winning Animation
+![image](https://user-images.githubusercontent.com/82748498/127404922-c2b5c596-fc51-4548-888e-e2c97ba5dc25.png)
